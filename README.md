@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MohammedApsal
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning saveetha
-- 💞️ I’m looking to collaborate on 🤡
-- 📫 How to reach me ...
+- 👀 I’m interested in innovation
+- 🌱 I’m currently learning SIMATS Engineering
 
 <!---
 MohammedApsal/MohammedApsal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
