@@ -73,7 +73,7 @@ I continuously build, experiment, and document projects related to **AI, Machine
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Mohammed Apsal](www.linkedin.com/in/mohammedapsal16)
+* 💼 LinkedIn: [Mohammed Apsal](www.linkedin.com/in/mohammedapsal16/)
 * 🐙 GitHub: [@MohammedApsal](https://github.com/MohammedApsal)
 
 ---
